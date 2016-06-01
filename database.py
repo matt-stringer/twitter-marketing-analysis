@@ -2,10 +2,6 @@ import MySQLdb
 import os
 
 class Database:
-	# host="research.czxveiixjbkr.us-east-1.rds.amazonaws.com"
-	# user="user"
-	# password="tw33ter12"
-	# db="twitterresearch"
 
 	host='localhost'
 	user='root'
