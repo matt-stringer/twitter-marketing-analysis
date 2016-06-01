@@ -1,0 +1,85 @@
+account	location	followers	tweets	installs	revenue
+West Coast Solar	Brentwood, CA	221	67	70	1973552.85
+
+Solar Energy News	Solar Sunshine	12245	16296	74	2359260.5
+
+Luminalt Solar	San Francisco	691	1234	75	1884530
+
+Complete Solar	Foster City, CA	195	190	45	1249397.61
+
+Horizon Solar Power	Hemet, CA	36	164	84	3363490.5
+
+ASI Hastings	San Diego, CA	36	211	55	1623746.2
+
+Natural Energy USA	Quality Solar Since 1977	31	75	49	1322085
+
+Green Convergence	Santa Clarita, CA	146	183	43	2249510
+
+Advanced Solar	Thousand Oaks, California	2343	165	57	1944503
+
+Solagex America	Orange County, CA	190	344	54	1193929.45
+
+Verengo Solar	California and New Jersey	1694	1089	2860	83936655.98
+
+A1 Solar Power	Van Nuys, CA	484	145	130	4670070.46
+
+PETERSENDEAN	Fremont, CA	340	633	379	7692234.9
+
+AMECO Solar	Southern California	554	741	43	1609883.99
+
+SolarCraft	North Bay Area, CA	226	160	47	1686279.87
+
+Plan It Solar	Grass Valley, CA	7	11	43	962729.9
+
+Sullivan Solar Power	Southern California 	1580	2183	87	2627475
+
+GRID Alternatives		656	459	785	15026580.67
+
+Herca Solar, Inc.	Oceanside, CA	70	186	46	1262840
+
+The Solar Company	Bay Area, California	10662	3531	131	4762525.44
+
+Clean Solar	San Jose, CA	2417	298	78	2109003.53
+
+Sungate Energy	San Diego, CA	268	4017	48	822240.04
+
+SolarAllianceofAmeri	San Diego, CA	97	443	95	2982226.28
+
+Future Energy Corp.	Cairo, Egypt	5	0	565	18578541.7
+
+Solar Technologies	Monterey to San Francisco Bay	13	7	56	1840498
+
+Pacific Solar		355	535	53	2690844.28
+
+Quantum Solar Design	Camarillo, Ca	29	24	52	1513945
+
+REC Solar	San Luis Obispo, CA	1487	496	925	25442668.62
+
+Bland Solar	Bakersfield, CA	4	1	74	2007804.66
+
+Peak Power Solutions	Tustin, CA	573	188	102	3183541.5
+
+Sierra Pacific Home	Greater Sacramento, CA	111	365	48	1363846
+
+SolarMax Technology	City of Industry, CA 	65	7	61	1768790
+
+SolaireEnergySystems	San Diego CA	84	241	129	3982923
+
+Quality First Home	Sacramento, Ca	1399	21127	70	1833064.8
+
+Solar Universe	Livermore CA	449	254	75	2272917.45
+
+Solar Financing	Walnut Creek	11	64	74	2442647
+
+Acro Energy	California	101	96	182	6297303.14
+
+Lifetime Solar	Auburn, California	8	2	42	1578508.15
+
+Real Goods Solar 	CA, CO and the Northeast	1027	750	156	4465198.65
+
+SolarCity		13563	1056	2156	58480706.6
+
+Hot Purple Energy	Palm Springs, CA	38	202	45	2171466.38
+
+DC Power Wind	Based in NorCal	36	5	52	1730683.98
+

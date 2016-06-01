@@ -1,0 +1,56 @@
+Company	Username	ID	install	revenue
+Horizon Solar Power	@HemetSolar	1378256179	84	3363490.5
+Verengo	@verengosolar	135634891	2860	83936655.98
+SolarCity	@solarcity	17824922	2156	58480706.6
+REC Solar Inc.	@RECSolar	260791818	925	25442668.62
+GRID Alternatives	@GRID	540297518	785	15026580.67
+Future Energy Corporation	@FutureNRGCorp	318044358	565	18578541.7
+Petersendean	 @petersendean	224713985	379	7692234.9
+Solar Service Center	none	none	297	12751035.62
+Galkos Construction Inc.	none	none	228	6553008.74
+ACRO Energy Inc.	@acroenergy	48403585	182	6297303.14
+Real Goods Solar	@RealGoodsSolar	134933696	156	4465198.65
+The Solar Company	@TheSolarCo	37728789	131	4762525.44
+A1 Solar Power Inc.	@A1SolarPower	1024886094	130	4670070.46
+Solaire Energy Systems	@SolaireEnergy	117234924	129	3982923
+Peak Power Solutions Inc.	@PeakPowerSolar	154601685	102	3183541.5
+Solar Alliance of America	@Solar_Alliance	193959588	95	2982226.28
+Sullivan Solar Power	@SullivanSolar	65162346	87	2627475
+Solar Depot LLC	none	none	6	2156692.66
+Smart Energy USA	none	none	85	2734068.5
+Clean Solar Inc	@Clean_Solar	399050549	78	2109003.53
+Solar Universe Inc.	@solaruniverse	19224315	75	2272917.45
+Luminalt Energy Corporation	@Luminalt	116922299	75	1884530
+Solare Energy Inc.	@SolareEnergy 	90986599	74	2359260.5
+Bland Solar & Air Inc	@Bland_Solar	237825130	74	2007804.66
+Diablo Solar Services Inc	@financingsolar	525234686	74	2442647
+West Coast Solar Inc	@WCSolar	339090588	70	1973552.85
+Quality First Home Improvement Inc.	@Quality1stHome	266701042	70	1833064.8
+SolarMax Renewable Energy Provider	@SolarMaxTch	237846769	61	1768790
+Advanced Solar Electric Inc	@Advanced_Solar	227210798	57	1944503
+SUNLOGIC INC DBA SOLAR TECHNOLOGIES	@SolarTechnol	410277484	56	1840498
+A S I HEATING AND AIR	@ASIHastings	88983539	55	1623746.2
+Solagex America	@SolagexAmerica	361099606	54	1193929.45
+Valley Pacific Builders dba Pacific Solar	@werpacificsolar	197298711	53	2690844.28
+Quantum Solar Designs Inc	@QuantumSolarDes	538311178	52	1513945
+Solar Network Inc. DBA Solar Universe	none	none	52	1382710.36
+DC Power Systems	@dcpowerwind	166328773	52	1730683.98
+Natural Energy	@NaturalEnergyUS	113475327	49	1322085
+Sungate Energy Solutions Inc.	@sungateenergy	162195552	48	822240.04
+Sierra Pacific Home & Comfort Inc.	@SierraPacificCA	109706328	48	1363846
+Smart Home Remodeling Inc.	none	none	47	1406058
+SolarCraft Services	@SolarCraft	107167082	47	1686279.87
+REFERRAL DESIGN & CONSTRUCTION INC	none	none	46	1210528.76
+Herca Solar Inc	@HercaSolar	408642527	46	1262840
+Hot Purple Energy	@hotpurpleenergy	188110262	45	2171466.38
+Complete Solar Solution Inc	@CompleteSolar	174339981	45	1249397.61
+Plan It Solar	@PlanItSolar	300340669	43	962729.9
+AMECO SOLAR INC	@AmecoSolar	369132956	43	1609883.99
+Green Convergence	@greenconvergnce	27760005	43	2249510
+Williams Lifetime Builders Inc. DBA Lifetime Solar	@lifetimesolar	183446402	42	1578508.15
+Remodelors Inc.	none	none	38	1164084.5
+SunEdison	@SunEdison_Solar	245901589	0	0		
+skytech	@Skytech_Solar	869258934	0	0			
+SunRun	@Sunrun	19671234	0	0			
+Sungevity	@Sungevity	66517904 	0	0
+Circular Energy  	@CircularEnergy	64534060 0	0

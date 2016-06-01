@@ -1,0 +1,51 @@
+Company,Username,ID,install,revenue
+Verengo,@verengosolar,135634891,2860,83936655.98,
+SolarCity,@solarcity,17824922,2156,58480706.60,
+REC Solar Inc.,@RECSolar,260791818,925,25442668.62,
+GRID Alternatives,@GRID,540297518,785,15026580.67,
+Future Energy Corporation,@FutureNRGCorp,318044358,565,18578541.70,
+Petersendean, @petersendean,224713985,379,7692234.90,
+Solar Service Center,none,none,297,12751035.62,
+Galkos Construction Inc.,none,none,228,6553008.74,
+ACRO Energy Inc.,@acroenergy,48403585,182,6297303.14,
+Real Goods Solar,@RealGoodsSolar,134933696,156,4465198.65,
+The Solar Company,@TheSolarCo,37728789,131,4762525.44,
+A1 Solar Power Inc.,@A1SolarPower,1024886094,130,4670070.46,
+Solaire Energy Systems,@SolaireEnergy,117234924,129,3982923.00,
+Peak Power Solutions Inc.,@PeakPowerSolar,154601685,102,3183541.50,
+Solar Alliance of America,@Solar_Alliance,193959588,95,2982226.28,
+Sullivan Solar Power,@SullivanSolar,65162346,87,2627475.00,
+Solar Depot, LLC,none,none,6,2156692.66,
+Smart Energy USA,none,none,85,2734068.50,
+Horizon Solar Power,@HemetSolar,1378256179,84,3363490.50,
+Clean Solar Inc,@Clean_Solar,399050549,78,2109003.53,
+Solar Universe Inc.",,75,2272917.45
+Luminalt Energy Corporation,75,1884530.00
+"Solare Energy Inc.",74,2359260.50
+Bland Solar & Air Inc,74,2007804.66
+Diablo Solar Services Inc,74,2442647.00
+"West Coast Solar\, Inc.",70,1973552.85
+"Quality First Home Improvement\, Inc.",70,1833064.80
+"SolarMax Renewable Energy Provider\, Inc.",61,1768790.00
+"Advanced Solar Electric\, Inc",57,1944503.00
+SUNLOGIC INC DBA SOLAR TECHNOLOGIES,56,1840498.00
+A S I HEATING AND AIR,55,1623746.20
+Solagex America,54,1193929.45
+"Valley Pacific Builders\, Inc.\, dba Pacific Solar",53,2690844.28
+"Quantum Solar Designs\, Inc.",52,1513945.00
+"Solar Network\, Inc. DBA Solar Universe",52,1382710.36
+DC Power Systems,52,1730683.98
+Natural Energy,49,1322085.00
+"Sungate Energy Solutions\, Inc.",48,822240.04
+Sierra Pacific Home & Comfort Inc.,48,1363846.00
+"Smart Home Remodeling\, Inc.",47,1406058.00
+"SolarCraft Services\, Inc.",47,1686279.87
+REFERRAL DESIGN & CONSTRUCTION INC,46,1210528.76
+"Herca Solar\, Inc",46,1262840.00
+Hot Purple Energy,45,2171466.38
+Complete Solar Solution Inc,45,1249397.61
+Plan It Solar,43,962729.90
+AMECO SOLAR INC,43,1609883.99
+Green Convergence,43,2249510.00
+"Williams Lifetime Builders\, Inc. DBA Lifetime Solar",42,1578508.15
+Remodelors Inc.,38,1164084.50

@@ -1,0 +1,12 @@
+Company	Username	ID	install	revenue
+Puget Sound Solar 	@PugetSoundSolar	759730500
+Ross Solar Group	@rosssolar	199455109
+SUNation Solar Systems	@SUNationSolar	90643236
+Third Sun Solar 	@ThirdSunSolar	68717270
+Clean Energy Con 	@cleanenergyco 	108835749
+Joule Solar Energy 	@Joule_Energy 	90746365
+Boston Solar Co 	@BostonsolarCo 	267481424
+EmPower Solar 	@EmPowerSolar	37496879
+Sunvest Solar Inc. 	@SunVestSolar 	2485725462
+ADR Solar Solutions 	@ADR_Solar 	1134875581
+
