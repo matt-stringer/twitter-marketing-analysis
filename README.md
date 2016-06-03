@@ -47,3 +47,8 @@ $ pip install <module>
 
 ### running
 
+## data sources/other credits
+Thanks to: 
+* [Twitter REST API]()
+* [List of Top 100 solar installers](http://www.solarpowerworldonline.com/2014-top-400-solar-contractors/2014-top-100-residential-solar-contractors/)
+
