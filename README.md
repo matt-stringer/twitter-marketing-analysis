@@ -17,4 +17,27 @@ This project takes solar installer Tweets to better understand and classify thei
 
 
 
+### dependencies
+Scripts were written in Python 2.7. You'll need the following modules: 
+```bash
+matplotlib >= 1.5.1  
+nltk >= 3.1
+numpy >= 1.10.1  
+pandas >= 0.17.1  
+python-dateutil >= 2.4.2
+scipy >= 0.16.0
+seaborn >= 0.6.0
+sklearn >= 0.17
+spacy >= 0.100
+statsmodels >= 0.6.1
+pattern >= 2.6
+vaderSentiment 
+```
+
+To install modules, run:  
+```bash
+$ pip install <module>
+```
+
+### running
 
