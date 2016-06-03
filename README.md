@@ -6,6 +6,12 @@ Twitter Analysis
 
 This project takes solar installer Tweets to better understand and classify their marketing strategies. The analysis utilizes tf-idf weighting, k-means clustering, and topic modeling/LDA to determine key topics solar installer marketing. As tweets have a time reference, we look for trends in marketing over time across both the entire industry and among individual companies. 
 
+## in this repo
+* `scrape_teets/` python script to get tweets from solar installer twitter accounts
+* `Solar Marketing Analysis.ipynb` jupyter notebook with scripts and outputs for text processing, k-means clustering and topic modeling
+* `data/` contains data and script for analysis
+* `analysis/` future analysis to be integrated into online analysis
+
 
 # Process
 * Import tweets from the top US residential solar installers to an SQL database
